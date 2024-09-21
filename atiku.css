@@ -1,0 +1,17 @@
+body {
+    background-color: #81AAF6;
+}
+
+h2 {
+    text-align: center;
+}
+
+a:hover {
+    background-color: yellow;
+     
+  } 
+  h2 {
+        text-align: center;
+  }
+p { text-align: unset;}
+body {}
